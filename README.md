@@ -6,6 +6,7 @@ Skills: Python.
 - ⚡ Fun fact: I love Sonic and Nintendo 3DS. I sleep only 4 hours a day.
 
 ![Sonic Dance](https://media.tenor.com/9yvXHMTiUcYAAAAm/sonic-the-hedgehog-dancing.webp)
+![3DS Dance](https://media.tenor.com/6_2pBpIb_P0AAAAm/vaporwave-kawaii.webp)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/сuredbydevops)  
 
