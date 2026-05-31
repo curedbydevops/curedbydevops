@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Daniel
+### Hi there 👋, my name is Daniel.
 #### DevOps
 I learn DevOps and Python. I am 16 years old. I live in Kazakhstan.
-Skills: Python 
+Skills: Python.
 
 - ⚡ Fun fact: I love Sonic and Nintendo 3DS. I sleep only 4 hours a day. 
 
